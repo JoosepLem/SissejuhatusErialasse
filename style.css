@@ -1,0 +1,18 @@
+body {
+    color:black
+}
+h1.pealkiri1 {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    border: 2px solid rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+}
+html {
+    background-color: rgb(255, 255, 255);
+}
+p.esimenetekst {
+    font-family: "Times New Roman", Times, serif;
+}   
+ul {
+    
+}
